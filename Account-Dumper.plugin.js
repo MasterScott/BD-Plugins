@@ -1,0 +1,1 @@
+//META{"name":"Account Dumper","website":"https://example.com/","source":"https://example.com/plugin.js"}*//
