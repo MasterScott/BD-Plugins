@@ -5,9 +5,9 @@ const config = {
 		name: "Plugin Hider",
 		authors: [
 			{
-				name: "East_Arctica#9238 | https://twitter.com/leHoofer",
+				name: "East_Arctica#9238",
 				discord_id: "478646141815226378",
-				github_username: "East_Arctica"
+				github_username: "EastArctica"
 			}
 		],
 		version: "1.1.0",
