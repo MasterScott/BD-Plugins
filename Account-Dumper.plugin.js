@@ -25,7 +25,7 @@ class AccountDumper {
     }
 	
     initialize() {
-        ZLibrary.PluginUpdater.checkForUpdate(this.getName(), this.getVersion(), "LINK_TO_RAW_CODE");
+        ZLibrary.PluginUpdater.checkForUpdate(this.getName(), this.getVersion(), "https://raw.githubusercontent.com/EastArctica/BD-Plugins/master/Account-Dumper.plugin.js");
     }	
 
 
