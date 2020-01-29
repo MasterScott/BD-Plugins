@@ -1,4 +1,4 @@
-//META{"name":"PluginHider","website":"https://www.twitter.com/leHoofer","source":"https://raw.githubusercontent.com/HooferDevelops/MessageFilter/master/MessageFilter.plugin.js"}*//
+//META{"name":"PluginHider","source":"https://raw.githubusercontent.com/EastArctica/BD-Plugins/master/PluginHider.plugin.js"}*//
 
 const config = {
 	info: {
@@ -13,9 +13,9 @@ const config = {
 		version: "1.1.0",
 		description: "Hide your Plugins.",
 		github:
-			"https://github.com/HooferDevelops/MessageFilter/",
+			"https://github.com/EastArctica/BD-Plugins/blob/master/PluginHider.plugin.js",
 		github_raw:
-			"https://raw.githubusercontent.com/HooferDevelops/MessageFilter/master/MessageFilter.plugin.js"
+			"https://raw.githubusercontent.com/EastArctica/BD-Plugins/master/PluginHider.plugin.js"
 	},
 	changelog: [
 
@@ -222,7 +222,7 @@ var PluginHider = (() => {
 								PluginUpdater.checkForUpdate(
 									"PluginHider",
 									currentver,
-									"https://raw.githubusercontent.com/HooferDevelops/MessageFilter/master/MessageFilter.plugin.js"
+									"https://raw.githubusercontent.com/EastArctica/BD-Plugins/master/PluginHider.plugin.js"
 								);
 
 
